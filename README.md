@@ -39,3 +39,6 @@ Timing the Program
 
 ### Sorted Data Set
 [Sorted Data Plot](images/forSRTDataSets.pdf)
+
+## software engineering log
+
