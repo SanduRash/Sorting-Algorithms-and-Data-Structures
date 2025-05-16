@@ -28,9 +28,10 @@ g++ -std=c++17 -o project1 project1_Sandu.cpp
 ```
 Timing the Program
 - On Linux/macOS:
-  ```bash
+```bash
   time ./project1 rand25.txt merge
 ```
+
 ## Runtime Graphs
 
 ### Random Data Set
