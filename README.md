@@ -26,3 +26,8 @@ Command Line Usage
 ```bash
 g++ -std=c++17 -o project1 project1_Sandu.cpp
 ```
+Timing the Program
+- On Linux/macOS:
+  ```bash
+  time ./project1 rand25.txt merge
+```
