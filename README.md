@@ -20,3 +20,9 @@ It also optionally prints the sorted output and can be benchmarked using system 
 - Analyze time complexity with reference to theoretical bounds:
   - 𝑂(𝑛^2)
   - 𝑂(𝑛log⁡𝑛)
+
+## How to run
+Command Line Usage
+```bash
+g++ -std=c++17 -o project1 project1_Sandu.cpp
+```
