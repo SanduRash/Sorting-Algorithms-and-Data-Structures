@@ -35,7 +35,7 @@ Timing the Program
 ## Runtime Graphs
 
 ### Random Data Set
-![Random Data Plot](images/forRandDataSets.pdf)
+[Random Data Plot](images/forRandDataSets.pdf)
 
 ### Sorted Data Set
-![Sorted Data Plot](images/forSRTDataSets.pdf)
+[Sorted Data Plot](images/forSRTDataSets.pdf)
