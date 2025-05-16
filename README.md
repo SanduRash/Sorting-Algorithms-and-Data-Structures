@@ -29,7 +29,7 @@ g++ -std=c++17 -o project1 project1_Sandu.cpp
 Timing the Program
 - On Linux/macOS:
 ```bash
-  time ./project1 rand25.txt merge
+  time ./project1 rand/rand25.txt merge
 ```
 
 ## Runtime Graphs
@@ -40,5 +40,4 @@ Timing the Program
 ### Sorted Data Set
 [Sorted Data Plot](images/forSRTDataSets.pdf)
 
-## software engineering log
 
